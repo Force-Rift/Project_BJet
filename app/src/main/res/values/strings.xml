@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Project_BJet</string>
+    <string name="AppTheme">Default</string>
+    <string name="title_activity_budget_creation_page">BudgetCreationPage</string>
 </resources>
